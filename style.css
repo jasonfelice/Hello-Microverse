@@ -1,8 +1,8 @@
 .heading {
-        display: block;
-        max-width: 500px;
-        margin: 0 auto;
-        text-align: center;
-        color: rgb(31, 106, 204);
-        text-shadow: -1px 1px 1px rgba(0, 0, 0, 0.705);
+  display: block;
+  max-width: 500px;
+  margin: 0 auto;
+  text-align: center;
+  color: rgb(31, 106, 204);
+  text-shadow: -1px 1px 1px rgba(0, 0, 0, 0.705);
 }
