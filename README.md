@@ -2,34 +2,22 @@
 
 # Hello Microverse
 
-> Description the project.
+This is my first microverse project that uses linters.
 
 
 ## Built With
 
-- html & Css
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
-
+- HTML
+- CSS
 
 
 To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+- Copy this [link](https://github.com/jasonfelice/Hello-Microverse)
+- Open the terminal
+- Run "git clone" and paste the link
+- Open this folder in your code editor
+- Create a feature branch to work on
+- Now you can edit and make a pull request
 
 
 
@@ -37,15 +25,8 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@jasonfelice](https://github.com/jasonfelice)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/jason-felice-11a5a622b/)
 
 ## 🤝 Contributing
 
